@@ -1,0 +1,349 @@
+.test {
+    background-color: red;
+}
+h6 {
+    font-size: 50px;
+    color:blue;
+}
+.box {
+    
+    border:
+    2px /* width */
+    solid /* style*/
+    black; /*color*/
+    border-radius: 20px;
+    margin:100px;
+    margin-left: 775px;
+    margin-right: 775px;
+}
+.box {
+    background-color:aquamarine
+}
+.header_text {
+    background-color: red;
+
+    color:blue;
+       font-size: 20px;
+       font-style: italic;
+       text-decoration: underline;
+}
+.boxes {
+    background-color: red;
+}
+.xc {
+    background-color:aquamarine;
+}
+.b {
+    background-color: black;
+    color:white;
+}
+.hh {
+    background-color:pink;
+    text-decoration: overline;
+}
+
+
+
+.№1 {
+    color:bisque;
+    background-color: brown;
+}
+.№2 {
+    text-decoration: underline;
+    color:blue;
+    font-size: 30px;
+}
+.№3 {
+font-style: italic;
+background-color: cadetblue;
+font-family:'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
+border;
+margin-left: 800px;
+    margin-right: 800px;
+}
+.№4 {
+text-decoration: underline;
+color: coral;
+}
+.color {
+    background-color:darkgreen;
+}
+.lineheight {
+    line-height: 50px;
+}
+.class {
+        text-align:left;
+}
+.№5 {
+color:rgb(189, 215, 238)
+}
+.color1 {
+    background-image:url("1443227063f8c6ee0d6420.06551344fon.png")
+}
+.color2 {
+    color: white;
+}
+.h {
+    text-decoration: line-through;
+}
+.display {
+    display:flex;
+    padding-bottom: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+}
+.opacity {
+opacity:0.5
+}
+.display2 {
+    justify-content:space-between;
+    display:flex;
+}
+.cl {
+    background-color: black;
+    text-align: right;
+    padding-top: 10px;
+    position: fixed;
+    left:0;
+    right:0;
+    top:2%;
+    text-align: center;
+    z-index: 1;
+    opacity:.6;
+}
+.color4 {
+    color:white;
+    max-width: 500px;
+    position: absolute;
+    left:50%;
+    bottom:50%;
+    transform: translateX(-50%);
+    text-shadow: 5px 7px 9px #15082e;
+    max-width: 1000px;
+
+}
+.color5 {
+    background-color: black;
+    position:relative;
+}
+.p {
+    position:absolute;
+    left:50%;
+    transform: translateX(-50%);
+    bottom:30%;
+}
+
+
+.bb {
+    background-color: black;
+    color:white;
+
+}
+.cc {
+    background-color: green;
+    color:white;
+padding-top:100px;
+padding-left: 100px;
+}
+
+.dd {
+    background-color: purple;
+    color:white;
+
+}
+
+
+.ee {
+    display:flex;
+}
+.class5 {
+    color:white;
+    font-size: 30px;
+}
+.ff {
+    margin-left: 20px;
+    margin-top: 20px;
+    margin-right: 200px;
+}
+.color6 {
+    color:white;
+    font-size: 20px;
+    max-width: 450px;
+
+
+
+    
+}
+.pic {
+    text-align: right;
+}
+.rrr {
+    display:flex;
+    justify-content: center;
+
+
+}
+.color7 {
+    color:white;
+    font-size: 20px;
+    margin-top: 20px;
+    max-width: 450px;
+   
+   
+
+}
+
+.color8 {
+    color:white;
+    font-size: 20px;
+    margin-top: 20px;
+    max-width: 450px;
+  
+  
+}
+
+.df {
+    color:white;
+    text-decoration: underline;
+
+}
+.pp {
+    text-decoration: underline;
+    color:white;
+padding-left: 20px;
+}
+
+
+.sss {
+margin-right: 40px;
+}
+
+.sss1 {
+    margin-right: 40px;
+}
+
+.vv {
+    margin-top: 20px;
+}
+
+.classs {
+    color: white;
+
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.inputtt {
+
+
+    padding: 30px;
+    padding-right: 160px;
+   
+ 
+}
+
+.formaforma {
+    border: 1px solid red;
+    max-width: 600px;
+    border-radius: 10px;
+    padding: 30px;
+    margin-left: 700px;
+    margin-right: 700px;
+}
+
+.buttonnn {
+padding: 10px;
+background-color:lightsalmon;
+color: white;
+border-radius: 10px;
+}
+
+.q {
+    padding: 10px;
+    padding-right:170px
+}
+
+.ani {
+        animation: anima_2 3s infinite ease;
+      }
+      
+      @keyframes anima_2 {
+      0% {
+          text-shadow: 0px 0px 0px black;
+      }
+      10% {
+        text-shadow: 2px 6px 30px red;
+      }
+      25% {
+        text-shadow: 2px 6px 30px orange;
+      }
+      40% {
+        text-shadow: 2px 6px 30px yellow;
+      }
+      55% {
+        text-shadow: 2px 6px 30px green;
+      }
+      70% {
+        text-shadow: 2px 6px 30px blue;
+      } 
+      85% {
+        text-shadow: 2px 6px 30px purple;
+      }
+      
+      100% {
+          text-shadow: 0px 0px 0px black;
+      }
+    }
+
+    .w {
+        color: white;
+        font-size:30px
+    }
+
+
+      
+ 
+.sx {
+    display:flex;
+    margin-left: 200px;
+}
+
+    .o {
+        color:white;
+        padding-top:300px;
+        font-size: 50px;
+        padding-left:5px;
+        padding-right:5px;
+    }
+
+    .fg {
+        color: white;
+        font-size: 20px;
+border:
+2px solid black;
+max-height: 400px;
+margin-left: 50px;
+padding-left: 50px;
+padding-right: 50px;
+margin-top: 100px;
+
+    }
+
+    .fgg {
+        color:red;
+ 
+    }
+
+    .fd {
+        display: flex;
+        justify-content: center;
+    }
+
+    .sdd {
+        color:white;
+        background-color:indianred;
+        padding: 20px;
+        border-radius: 10px;
+        margin-top: 100px;
+font-size: 15px;
+    }
